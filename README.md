@@ -1,0 +1,1 @@
+# redis_charm_2025_RW
